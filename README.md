@@ -11,4 +11,15 @@ Comments:
 7. Work each plate connection independently and get it fitted perfectly before you start the next one or mount anything.
 8. Hope you like the results.
 
+*.FCStd files are FreeCad editable
+*.stl files are input files for the slicer
+
+Prefixes:
+fpr - front plate
+lpr - left plate
+rpr - right plate
+bpr - back plate
+tpr - top plate
+bb - base board plate
+
 All that said, these are free to use by anyone.

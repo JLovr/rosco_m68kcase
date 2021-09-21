@@ -23,3 +23,8 @@ tpr - top plate
 bb - base board plate
 
 All that said, these are free to use by anyone.
+
+2021-09-21: Updated to modify the default fpr file to include holes for LEDs and added one for a reset switch.
+        Added a second fpr version which did not include the reset switch (fprm68k-noresetswitch).
+
+
